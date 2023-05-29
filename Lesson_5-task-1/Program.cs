@@ -26,13 +26,13 @@ namespace Lesson_5_task_1
                 int evenNum = 0;
                 for (int i=0; i < array.Length; i++)
                 {
-                    //int n =array[i];
-                    //int evenNum = 0;
+                   
+                  
                     if (array[i]%2 == 0)
                     {
                         evenNum += 1;
                     }
-                    //return evenNum;
+                  
                 }
                 return evenNum;
 
